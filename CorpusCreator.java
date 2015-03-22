@@ -24,7 +24,7 @@ import com.github.jreddit.utils.restclient.RestClient;
  * @author bwong
  * 
  */
-public class KorpusCreator {
+public class CorpusCreator {
 	public static final String SUBREDDIT = "AdviceAnimals"; 
 	public static RestClient restClient;
 	public static BufferedWriter bw;
